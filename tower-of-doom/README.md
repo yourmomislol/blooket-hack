@@ -1,3 +1,5 @@
+# Support discord server: https://discord.com/invite/U6AeSYyn3g
+
 # tower-of-doom
 
 This cheat only works in tower of doom game mode!
