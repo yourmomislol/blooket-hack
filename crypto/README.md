@@ -1,3 +1,5 @@
+# Support discord server: https://discord.com/invite/U6AeSYyn3g
+
 # crypto
 
 This cheat only works in crypto hack game mode!
