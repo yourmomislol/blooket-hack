@@ -16,7 +16,7 @@ note: **This cheat also includes adding max xp for the day**
 
 ### Get the script from the file [getAllBlooksInGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooksInGame.js)
 
-# getAllBlooks
+# getAllBlooks.js
 
 note: **This script is a spoofer.**
 
