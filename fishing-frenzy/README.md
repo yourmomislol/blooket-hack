@@ -1,3 +1,5 @@
+# Support discord server: https://discord.com/invite/U6AeSYyn3g
+
 # fishing-frenzy
 
 This cheat only works in fishing frenzy game mode!
