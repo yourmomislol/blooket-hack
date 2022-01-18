@@ -2,7 +2,7 @@
 
 # The Blooket Hack
 
-**The Official Blooket Hack provided by [gliz](https://twitter.com/glizuwu)**
+**The Blooket Hack provided by [gliz](https://twitter.com/glizuwu)**
 
 Why you should use this tool:
 - Always working.
