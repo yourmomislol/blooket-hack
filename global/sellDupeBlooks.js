@@ -1,4 +1,3 @@
-const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 async function getName() {
     const response = await fetch('https://api.blooket.com/api/users/verify-session', {
         method: "GET",
@@ -45,7 +44,6 @@ async function sellDupeBlooks() {
                 numSold: val
             }),
         });
-       await sleep(2500);
     };
 
     if (x.length > 0) {
