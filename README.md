@@ -49,3 +49,26 @@ I just wanted to say that I'm not responsible if you get banned. I'm not respons
 ![image](https://user-images.githubusercontent.com/73669084/148287287-44fd3b5f-43d9-49be-bf9f-7d445d366bfd.png)
 ![image](https://user-images.githubusercontent.com/73669084/148287302-8693c202-6968-4cf3-811f-05cbd0fd8b2f.png)
 ![image](https://user-images.githubusercontent.com/73669084/148287313-30793b91-b0d1-430b-879b-398a23b9b197.png)
+
+## Faq
+
+Q. Can you bypass 500 token limit or get more than 500 tokens and 300 xp in a day?
+</br>
+A. No, this is impossible to do.
+</br>
+</br>
+Q. Will you make hacks for candy quest and santas workshop?
+</br>
+A. No, because these are limited time game modes and this would be useless to do.
+</br>
+</br>
+Q. Will my account get banned for using these?
+</br>
+A. If you use spamOpenBoxes or any of the hacks you are giving blooket a reason to ban you. If you are paranoid about getting your account banned, do not use them. It is not our fault if you get banned for using them.
+</br>
+</br>
+Q. Why isn't get all blooks working?
+</br>
+A. getAllBlooks.js is used on the game join page when you are selecting a blook, NOT IN YOUR INVENTORY. You should be on blooket.com/lobby/select and not blooket.com/blooks
+</br>
+</br>
