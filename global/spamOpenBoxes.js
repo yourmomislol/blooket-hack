@@ -1,5 +1,3 @@
-const sleep = (ms) => new Promise(r => setTimeout(r, ms));
-
 (async () => {
     const box = prompt('What box do you want to open? (EXAMPLE: Space)');
     const amount = prompt('How many boxes do you want to open?');
@@ -11,7 +9,6 @@ const sleep = (ms) => new Promise(r => setTimeout(r, ms));
     (new Promise(async (res, rej) => {
         var blooks = []
         for (let i = 0; i < amount; i++) {
-            await sleep(2.5e3)
             fetch('https://api.blooket.com/api/users/unlockblook', {
                 method: "PUT",
                 headers: {
